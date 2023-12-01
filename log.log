@@ -1,0 +1,4 @@
+INFO:log:DATE(day=9, mouth=11, year=2023)
+WARNING:log:no --text provided
+WARNING:log:no --text provided
+INFO:log:DATE(day=1, mouth=2, year=2023)
